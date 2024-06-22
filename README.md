@@ -27,3 +27,5 @@ Questions for any open source hardware product:
  - How would the product be made using only locally sourced waste stream materials and off grid power?
  - Is there self-replicating documentation which replicates with each replication of the product?
  - Is there some stable archive where legacy versions of the product are stored?
+
+![](https://raw.githubusercontent.com/LafeLabs/checklist/main/qrcode-checklist.png)
